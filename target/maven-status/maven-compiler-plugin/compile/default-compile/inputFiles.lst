@@ -1,8 +1,0 @@
-/home/vagrant/islandora/camel/sandbox/islandora-fcrepo-client/src/main/java/ca/islandora/fcrepo/client/request/CreateResourceRequest.java
-/home/vagrant/islandora/camel/sandbox/islandora-fcrepo-client/src/main/java/ca/islandora/fcrepo/client/request/IFcrepoRequest.java
-/home/vagrant/islandora/camel/sandbox/islandora-fcrepo-client/src/main/java/ca/islandora/fcrepo/client/FcrepoClient.java
-/home/vagrant/islandora/camel/sandbox/islandora-fcrepo-client/src/main/java/ca/islandora/fcrepo/client/IFcrepoClient.java
-/home/vagrant/islandora/camel/sandbox/islandora-fcrepo-client/src/main/java/ca/islandora/fcrepo/client/request/GetResourceRequest.java
-/home/vagrant/islandora/camel/sandbox/islandora-fcrepo-client/src/main/java/ca/islandora/fcrepo/client/response/IFcrepoResponse.java
-/home/vagrant/islandora/camel/sandbox/islandora-fcrepo-client/src/main/java/ca/islandora/fcrepo/client/request/AFcrepoRequest.java
-/home/vagrant/islandora/camel/sandbox/islandora-fcrepo-client/src/main/java/ca/islandora/fcrepo/client/response/FcrepoResponse.java
