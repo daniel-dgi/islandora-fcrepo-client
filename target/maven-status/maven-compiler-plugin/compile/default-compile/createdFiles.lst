@@ -1,0 +1,11 @@
+ca/islandora/fcrepo/client/request/SaveResourceRequest.class
+ca/islandora/fcrepo/client/request/CreateResourceRequest.class
+ca/islandora/fcrepo/client/FcrepoClient.class
+ca/islandora/fcrepo/client/response/IFcrepoResponse.class
+ca/islandora/fcrepo/client/request/IFcrepoRequest.class
+ca/islandora/fcrepo/client/IFcrepoClient.class
+ca/islandora/fcrepo/client/request/ModifyResourceRequest.class
+ca/islandora/fcrepo/client/request/DeleteResourceRequest.class
+ca/islandora/fcrepo/client/request/AFcrepoRequest.class
+ca/islandora/fcrepo/client/response/FcrepoResponse.class
+ca/islandora/fcrepo/client/request/GetResourceRequest.class
